@@ -1,0 +1,17 @@
+What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+    Part A was by far the hardest part of this project. I kept having this bug where the computer would play twice
+    and then not play for a turn, and then play twice. It ended up being an issue where I was updating the turn twice,
+    thus the computer would get skipped and then called twice.
+Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do
+include any help from other sources, such as websites or people (including classmates and friends) and attribute
+them by name.
+    The pseudocode was extremely helpful.
+Describe any serious problems you encountered while writing the program.
+    The biggest issue I had with this project was time. I had multiple exams and projects due around the same time
+    so I didn't have very much time to work on this, so I used my extension.
+Explain your heuristic that you invented for Part C.
+    The heuristic essentially evaluates all pieces from both players, decides who is winning.Then, it calculates the
+    all the possible moves, however many moves in advance. And makes is move based on that.
+List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment,
+and whether you enjoyed doing it.
+    A very cool project. I actually bet my roommate $10 he couldnt beat my program in 10 tries. (I won)
